@@ -54,7 +54,8 @@ Stick around at the bottom of the race course to enjoy a truly Canadian, maple s
 
 **“Best Guess Challenge” presented by TELUS**  
 TELUS will donate the following, based on your Best Guess!
-* $1000 for being within 1 second of guessed time • $500 for being within 2 seconds
+* $1000 for being within 1 second of guessed time
+* $500 for being within 2 seconds
 * $200 for being within 3 seconds
 
 
