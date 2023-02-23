@@ -1,0 +1,9 @@
+title: Winetastic
+description: Whistler Blackcomb Foundation Winetastic
+baseurl: winetastic.ca
+show_downloads: false
+theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
+
